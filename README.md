@@ -29,8 +29,8 @@ Streamlit app (upload option).
 
 ## c. GitHub Repository Link
 
-> **TODO:** Replace with your actual repository link after you push this project,
-> e.g. `https://github.com/<your-username>/ml-assignment-2-breast-cancer`
+> Replace with your actual repository link after you push this project,
+> (https://github.com/ahd220922-cloud/ml_assignment2_2025ac05478)
 
 ## d. Models Used
 
@@ -85,21 +85,16 @@ project-folder/
 │   └-- metrics_results.csv                   # comparison table (source of truth)
 ```
 
-## How to Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## How the App Was Deployed
 
 1. Pushed this repository to GitHub.
 2. Signed in to [Streamlit Community Cloud](https://streamlit.io/cloud) with GitHub.
 3. Clicked **New App** → selected this repository → branch `main` → main file `app.py`.
-4. Clicked **Deploy**.
+4. Clicked **Deploy**. 
 
-**Live Streamlit App Link:** > **TODO:** paste your deployed app URL here
+**Live Streamlit App Link:** > https://mlassignment22025ac05478.streamlit.app/
+https://mlassignment22025ac05478.streamlit.app/
 
 ## Screenshot (BITS Virtual Lab Execution)
 
