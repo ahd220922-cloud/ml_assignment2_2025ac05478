@@ -98,6 +98,13 @@ https://mlassignment22025ac05478.streamlit.app/
 
 ## Screenshot (BITS Virtual Lab Execution)
 
-> **TODO:** Insert the screenshot of you running this assignment on the BITS
-> Virtual Lab here (as required by the assignment; also upload it separately
-> per the submission PDF instructions).
+> <img width="1916" height="1078" alt="Screenshot 2026-08-18 191327" src="https://github.com/user-attachments/assets/e40fb1bb-c103-4819-bd9a-420062f366d0" />
+<img width="1917" height="1078" alt="Screenshot 2026-08-18 191255" src="https://github.com/user-attachments/assets/77f36265-fa0f-4082-8112-11a6a2497a79" />
+<img width="1915" height="1078" alt="Screenshot 2026-08-18 191233" src="https://github.com/user-attachments/assets/bdae0e60-b7e0-4077-82c8-4109961f3f48" />
+<img width="1917" height="1032" alt="Screenshot 2026-08-18 191218" src="https://github.com/user-attachments/assets/2679fbc7-8242-48e1-a881-2bcbaa23b48c" />
+<img width="1913" height="983" alt="Screenshot 2026-08-18 185525" src="https://github.com/user-attachments/assets/930f5def-58c9-45af-a2ca-9e607db72ca7" />
+
+
+
+
+
